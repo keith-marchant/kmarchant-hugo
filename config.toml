@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://kmarchant.com/"
+baseurl = "//kmarchant.com.s3-website-ap-southeast-2.amazonaws.com/"
 languageCode = "en-au"
 title = "Keith Marchant CV"
 theme = "orbit"
