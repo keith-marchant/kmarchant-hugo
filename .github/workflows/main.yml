@@ -16,7 +16,7 @@ jobs:
           run: |
             sudo apt-get install hugo
             git submodule update --init --recursive
-            hugo
+            hugo --gc --minify
             aws s3 sync ${SOURCE_DIR} s3://${AWS_S3_BUCKET} \
               --acl public-read \
               --region ${AWS_REGION} \

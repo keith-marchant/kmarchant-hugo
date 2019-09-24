@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "//kmarchant.com"
+baseurl = "//kmarchant.com/"
 languageCode = "en-au"
 title = "Keith Marchant CV"
 theme = "orbit"
