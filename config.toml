@@ -195,15 +195,19 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "C#"
-        level = "95%"
+        level = "90%"
                 
         [[params.skills.list]]
         skill = "SQL"
-        level = "85%"
+        level = "80%"
 
         [[params.skills.list]]
         skill = "WCF"
-        level = "90%"
+        level = "80%"
+
+        [[params.skills.list]]
+        skill = "gRPC"
+        level = "70%"
 
         [[params.skills.list]]
         skill = "F#"
@@ -211,7 +215,7 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "JavaScript"
-        level = "65%"
+        level = "60%"
 
         [[params.skills.list]]
         skill = "TeamCity & Octopus Deploy"
