@@ -4,7 +4,7 @@ baseurl = "//kmarchant.com.s3-website-ap-southeast-2.amazonaws.com/"
 languageCode = "en-au"
 title = "Keith Marchant CV"
 theme = "orbit"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-148745067-1"
 
 # Do not build files for websites. Need them? Set to false
 disableRSS = true
