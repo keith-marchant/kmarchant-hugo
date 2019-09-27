@@ -114,7 +114,7 @@ disable404 = true
         summary = "InfoTrack is a market leader in providing search and workflow services to the legal industry. InfoTrack provides a single platform for E-Conveyancing, due diligence, and more; tightly integrated into multiple practice management software solutions."
         details = [
             "Implemented the vision of a shared software platform across three countries",
-            "Transitioned from a monolithic code base to multiple microservices running in containerised environments",
+            "Transitioned from a monolithic .NET 4.5 code base to multiple .NET Core microservices running in containerised environments",
             "Managed the development of the core platform and infrastructure used to generate more than $1.5 million/week",
             "Managed and mentored multiple developers",
             "Migrated hosting from private cloud to AWS and assisted with the adoption of AWS managed services",
